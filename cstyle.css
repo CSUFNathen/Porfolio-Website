@@ -1,0 +1,33 @@
+html {
+    size: 100%;
+}
+
+body {
+    background-color: white;
+    background-repeat: unset;   
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.c-mainbox {
+    background-color: rgba(0,0,0, 0.3);
+    margin-left: -1%;
+    margin-top: 4%;
+    height: 600px;
+    width: 1543px;
+}
+
+.phone {
+    width: 120px;
+    height: 120px;
+    margin-left: 32%;
+    margin-top: 60px;
+}
+
+.email {
+    width: 120px;
+    height: 120px;
+    margin-left: 20%;
+    margin-top: 60px;
+}

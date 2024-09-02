@@ -1,0 +1,84 @@
+html {
+    size: 100%;
+}
+
+body {
+    background-repeat: unset;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url('images/background.jpeg');
+    margin-bottom: 18px;
+}
+
+.background {
+    img {
+    width: 1520px;
+    margin-left: -10px;
+    margin-bottom: 50;
+    
+    }
+    
+}
+
+.mainbox {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: -1%;
+    margin-top: 1.5%;
+    height: 600px;
+    width: 1543px;
+}
+
+    .headshot {
+        
+        img {
+        height: 200px;
+        text-align: left;
+        margin-left: 84%;
+        margin-top: 2%;
+        }
+
+    .undertext1 {
+        color: white;
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.633);
+        font-size: small;
+        margin-left: 82%;
+    }
+
+    .undertext2 {
+        color: white;
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.633);
+        font-size: small;
+        margin-left: 86%; 
+    }
+
+    .undertext3 {
+        color: white;
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.633);
+        font-size: small;
+        margin-left: 87%;
+    }
+}
+
+h1 {
+    color: white;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.633);
+    margin-left: 2%;
+    margin-top: -24%;
+    text-decoration: underline;
+}
+
+div a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.633); 
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.location {
+    margin-left: 74%;
+    margin-top: 2%;
+}
